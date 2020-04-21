@@ -1,0 +1,12 @@
+.myBox {
+  background-image: url(../../images/imgSign.jpeg);
+  padding-left: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  height: 100vh;
+}
+.errorText {
+  color: blue;
+}

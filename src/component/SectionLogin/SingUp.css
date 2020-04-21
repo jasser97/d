@@ -1,0 +1,23 @@
+.SingUp {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-bottom: 15px;
+  margin-right: 30px;
+  margin-top: -10px;
+}
+.SingUp span {
+  padding-bottom: 5px;
+  color: rgb(74, 74, 74);
+}
+.SingUp a {
+  color: rgb(165, 0, 171);
+  text-transform: uppercase;
+  font-weight: 499;
+  font-size: 1.1em;
+}
+.SingUp a:hover,
+.SingUp a:active {
+  text-decoration: none;
+  color: rgb(165, 0, 171);
+}
